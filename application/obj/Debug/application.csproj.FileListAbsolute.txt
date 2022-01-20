@@ -1,0 +1,10 @@
+C:\Users\Gustavo\source\repos\ProjectXML\application\bin\Debug\application.exe.config
+C:\Users\Gustavo\source\repos\ProjectXML\application\bin\Debug\application.exe
+C:\Users\Gustavo\source\repos\ProjectXML\application\bin\Debug\application.pdb
+C:\Users\Gustavo\source\repos\ProjectXML\application\bin\Debug\Library.dll
+C:\Users\Gustavo\source\repos\ProjectXML\application\bin\Debug\Library.pdb
+C:\Users\Gustavo\source\repos\ProjectXML\application\obj\Debug\application.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\ProjectXML\application\obj\Debug\application.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\ProjectXML\application\obj\Debug\application.csproj.CopyComplete
+C:\Users\Gustavo\source\repos\ProjectXML\application\obj\Debug\application.exe
+C:\Users\Gustavo\source\repos\ProjectXML\application\obj\Debug\application.pdb
